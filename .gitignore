@@ -1,0 +1,11 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/
+credentials.json
+token.json
+interns.xlsx
+logs.csv
+outbox/
